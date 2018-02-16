@@ -5,5 +5,5 @@ IDE Requirements:
 Python
 
 Python Packages Required:
-tweepy
+tweepy "\n"
 textblob
